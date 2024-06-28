@@ -2,10 +2,10 @@
 
 . Tech Stacks
 - Html
--Css
-Java
-Jsp & Servlet
-My Sql
+- Css
+- Java
+- Jsp & Servlet
+- My Sql
 
 
 
