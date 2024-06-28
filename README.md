@@ -1,7 +1,7 @@
 **Amazon Clone**
 
 . Tech Stacks
--Html
+- Html
 -Css
 Java
 Jsp & Servlet
